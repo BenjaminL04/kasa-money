@@ -56,3 +56,5 @@ ios/Runner/GoogleService-Info.plist
 android/key.properties
 android/local.properties
 *.keystore
+
+api/.env
