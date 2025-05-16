@@ -26,7 +26,7 @@ To empower individuals across Africa with seamless, secure, and affordable remit
 ## ⚡ Powered By
 
 - [Solana](https://solana.com) — High-performance blockchain for fast ZARP transfers  
-- [ZARP](https://zarp.money) — South African Rand stablecoin  
+- [ZARP](https://www.zarpstablecoin.com) — South African Rand stablecoin  
 - [Bitcoin Lightning Network](https://lightning.network) — Instant BTC payments with minimal fees
 
 ---
@@ -49,7 +49,7 @@ Kasa Money prioritizes user safety with secure key management and encrypted tran
 ## 👋 Get Involved
 
 Interested in partnering, integrating, or using Kasa Money in your ecosystem?  
-Reach out to us at **info@kasa.money**
+Reach out to us at **info@kasamoney.com**
 
 ---
 
