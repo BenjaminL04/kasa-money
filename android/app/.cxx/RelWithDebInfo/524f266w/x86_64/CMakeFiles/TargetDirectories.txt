@@ -1,0 +1,2 @@
+/Users/benjamin/Desktop/development/bitcoin_khaya_wallet/android/app/.cxx/RelWithDebInfo/524f266w/x86_64/CMakeFiles/edit_cache.dir
+/Users/benjamin/Desktop/development/bitcoin_khaya_wallet/android/app/.cxx/RelWithDebInfo/524f266w/x86_64/CMakeFiles/rebuild_cache.dir

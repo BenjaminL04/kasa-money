@@ -1,0 +1,1 @@
+/Users/benjamin/Desktop/development/bitcoin_khaya_wallet/build/app/intermediates/cxx/Debug/x3s2a4aw/obj/armeabi-v7a

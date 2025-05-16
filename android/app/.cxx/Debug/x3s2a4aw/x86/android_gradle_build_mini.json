@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/benjamin/Desktop/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/benjamin/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/benjamin/Desktop/development/bitcoin_khaya_wallet/android/app/.cxx/Debug/x3s2a4aw/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/benjamin/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/benjamin/Desktop/development/bitcoin_khaya_wallet/android/app/.cxx/Debug/x3s2a4aw/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
