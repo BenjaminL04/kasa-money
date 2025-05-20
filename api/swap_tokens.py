@@ -135,7 +135,7 @@ def swap_tokens():
             response = requests.get(api_url, headers={'X-API-KEY': read_key})
             lnurl_data = response.json()
 
-            headers = {'X-API-KEY': '10dc878e229c45b79535538d4bd63a19'}
+            headers = {'X-API-KEY': admin_key}
             adjusted_btc_amount = int(str(btc_amount) + "000")
             payload = {
                 "description_hash": lnurl_data["description_hash"],
